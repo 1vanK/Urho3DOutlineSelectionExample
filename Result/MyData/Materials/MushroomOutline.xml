@@ -1,0 +1,7 @@
+<material>
+    <technique name="Techniques/DiffOutline.xml" />
+    <texture unit="diffuse" name="Textures/Mushroom.dds" />
+    <parameter name="MatSpecColor" value="0.1 0.1 0.1 16" />
+    <parameter name="OutlineColor" value="1 1 0 0" />
+    <parameter name="OutlineEnable" value="false" />
+</material>
